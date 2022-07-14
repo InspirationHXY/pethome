@@ -44,3 +44,6 @@
 
    多人协作
    **远程仓库的多分支使用**
+
+   使用 git checkout -b dev origin/dev 在本地创建dev分支并关联远程仓库的dev分支
+
