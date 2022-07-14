@@ -12,3 +12,10 @@
    mapper
    sql
    service
+
+   二、git版本控制工具的使用
+   分支的用法
+   git checkout -b dev  创建并切换到dev分支
+   相当于
+   git branch dev
+   git checkout dev
