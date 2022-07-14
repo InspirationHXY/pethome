@@ -19,3 +19,5 @@
    相当于
    git branch dev
    git checkout dev
+
+   分支合并的冲突解决
