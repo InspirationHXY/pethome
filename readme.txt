@@ -19,3 +19,9 @@
    相当于
    git branch dev
    git checkout dev
+
+   删除分支
+   git branch -d branch_nameName
+
+   分支合并的问题
+
