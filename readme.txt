@@ -26,5 +26,21 @@
    分支合并的问题
 
    分支合并的冲突解决
+   
+   bug分支与stash命令
+   git stash 保存当前的工作现场，等后续继续
+   git stash list 列出现场
+   git stash pop 恢复工作现场
 
-   fix bug 
+   第二种恢复现场的方法
+   git stash apply 
+
+   git stash drop 删除存储的现场
+
+   当有多个现场时，使用 stash@{0}来指定一个要操作的现场
+   
+   将修改的代码作用与其他分支
+   git cherry-pick 提交代号
+
+   多人协作
+   **远程仓库的多分支使用**
